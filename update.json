@@ -1,17 +1,17 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "message": "icon is here!!!",
   "downloadUrl": "https://github.com/AbdulrezakHA/halation-releases/releases/latest/download/Halation.ccx",
   "about": {
     "portfolioUrl": "https://abdulrezak.com"
   },
   "whatsNew": {
-    "title": "What's New in Halation 1.0.5",
+    "title": "What's New in Halation 1.0.6",
     "pages": [
       {
         "title": "hope you like it ",
         "description": "the icon is not visible bug got fixed, it is an H letter so you will not miss the plugin again!!!",
-        "media": "https://raw.githubusercontent.com/AbdulrezakHA/halation-releases/v1.0.5/whatsnew/1.0.5/Headset_logo_close_up_2K_202608241456.jpeg",
+        "media": "whatsnew/1.0.6/artistic-blurry-colorful-wallpaper-background.jpg",
         "mediaType": "image",
         "buttons": [
           {
