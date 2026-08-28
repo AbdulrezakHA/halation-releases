@@ -1,31 +1,17 @@
 {
-  "version": "1.0.1",
-  "message": "Version 1.0.1 available!",
+  "version": "1.0.2",
+  "message": "welcom to my plugin",
   "downloadUrl": "https://github.com/AbdulrezakHA/halation-releases/releases/latest/download/Halation.ccx",
   "about": {
     "portfolioUrl": "https://abdulrezak.com"
   },
   "whatsNew": {
-    "title": "What's New in Halation 1.0.1",
+    "title": "What's New in Halation 1.0.2",
     "pages": [
       {
-        "title": "Non-destructive glow groups",
+        "title": "hope you like it ",
         "description": "Your glow now lives in a layer group. Add masks, blend tweaks or extra layers to the group — they survive every re-render.",
-        "media": "",
-        "mediaType": "image",
-        "buttons": []
-      },
-      {
-        "title": "Colorize + Deep Saturation",
-        "description": "Tint the glow any color with COLORIZE, or dial SATURATION from a pure white bloom all the way to the image's own colors.",
-        "media": "",
-        "mediaType": "image",
-        "buttons": []
-      },
-      {
-        "title": "Exclude Colors",
-        "description": "Pick any combination of color swatches and suppress each from the glow at its own strength.",
-        "media": "",
+        "media": "whatsnew/1.0.2/Artboard_1.png",
         "mediaType": "image",
         "buttons": []
       }
