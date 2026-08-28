@@ -1,19 +1,25 @@
 {
-  "version": "1.0.3",
-  "message": "welcom to my plugin",
+  "version": "1.0.4",
+  "message": "icon is here!!!",
   "downloadUrl": "https://github.com/AbdulrezakHA/halation-releases/releases/latest/download/Halation.ccx",
   "about": {
     "portfolioUrl": "https://abdulrezak.com"
   },
   "whatsNew": {
-    "title": "What's New in Halation 1.0.3",
+    "title": "What's New in Halation 1.0.4",
     "pages": [
       {
         "title": "hope you like it ",
-        "description": "Your glow now lives in a layer group. Add masks, blend tweaks or extra layers to the group — they survive every re-render.",
-        "media": "whatsnew/1.0.3/_____________________2K_202608281532.jpeg",
+        "description": "the icon is not visible bug got fixed, it is an H letter so you will not miss the plugin again!!!",
+        "media": "whatsnew/1.0.4/3d-abstract-blue-geometrical-background-connection-structure-science-background-",
         "mediaType": "image",
-        "buttons": []
+        "buttons": [
+          {
+            "label": "leave me any message or suggestions, I will be happy to hear from you!!!",
+            "url": "https://github.com/AbdulrezakHA/halation-releases/releases",
+            "primary": true
+          }
+        ]
       }
     ]
   }
