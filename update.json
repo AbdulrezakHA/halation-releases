@@ -1,17 +1,17 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "message": "welcom to my plugin",
   "downloadUrl": "https://github.com/AbdulrezakHA/halation-releases/releases/latest/download/Halation.ccx",
   "about": {
     "portfolioUrl": "https://abdulrezak.com"
   },
   "whatsNew": {
-    "title": "What's New in Halation 1.0.2",
+    "title": "What's New in Halation 1.0.3",
     "pages": [
       {
         "title": "hope you like it ",
         "description": "Your glow now lives in a layer group. Add masks, blend tweaks or extra layers to the group — they survive every re-render.",
-        "media": "whatsnew/1.0.2/Artboard_1.png",
+        "media": "whatsnew/1.0.3/_____________________2K_202608281532.jpeg",
         "mediaType": "image",
         "buttons": []
       }
